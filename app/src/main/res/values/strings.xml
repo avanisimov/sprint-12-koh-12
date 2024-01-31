@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sprint12koh12</string>
+    <string name="toolbar_title">Our awesome app</string>
+    <string name="action_clear">clear</string>
+    <string name="action_minus">-</string>
+    <string name="action_plus">+</string>
+</resources>
